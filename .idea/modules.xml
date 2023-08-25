@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helm_charts.iml" filepath="$PROJECT_DIR$/.idea/modules/helm_charts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helm_charts.main.iml" filepath="$PROJECT_DIR$/.idea/modules/helm_charts.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helm_charts.test.iml" filepath="$PROJECT_DIR$/.idea/modules/helm_charts.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/helm_test.iml" filepath="$PROJECT_DIR$/.idea/helm_test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
     </modules>
   </component>
 </project>

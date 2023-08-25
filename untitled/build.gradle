@@ -1,6 +1,17 @@
 plugins {
     id 'java'
+//    id 'dk.kmd.helm.chart.publish' version '1.0.0'
 }
+
+//helmChartPublisher {
+//    chartDir = file('path/to/chart')
+//    repository {
+//        name = 'helm_test'
+//        url = 'https://github.com/AndreiIhnatsiuk/helm_test'
+//        username = 'your-username'
+//        password = 'your-password'
+//    }
+//}
 
 group = 'org.example'
 version = '1.0-SNAPSHOT'
